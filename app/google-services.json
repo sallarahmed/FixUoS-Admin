@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "959087086596",
+    "firebase_url": "https://fixuos.firebaseio.com",
+    "project_id": "fixuos",
+    "storage_bucket": "fixuos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959087086596:android:ee57f2947d7b6807",
+        "android_client_info": {
+          "package_name": "com.example.sallarkhan.fixuos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959087086596-n243rc8d1cjql1s58itf1qfjqpd97k51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sallarkhan.fixuos",
+            "certificate_hash": "bc127283ab76bbc924196f04dfab69b9d3bb6044"
+          }
+        },
+        {
+          "client_id": "959087086596-rbdkbut16u2g3f40mrek3p011442o8o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCP9u_Y-NNoa4nGMKJU524QKhDZ2TapgM"
+        },
+        {
+          "current_key": "AIzaSyATDvBbBTBBM2hn24Jdn5lxoNQjOdo_Qjo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959087086596-rbdkbut16u2g3f40mrek3p011442o8o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959087086596:android:cc8027c8a8f84521",
+        "android_client_info": {
+          "package_name": "com.example.sallarkhan.fixuos_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959087086596-puet66c658h6md0ttrd710h2kvd2c92b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sallarkhan.fixuos_admin",
+            "certificate_hash": "bc127283ab76bbc924196f04dfab69b9d3bb6044"
+          }
+        },
+        {
+          "client_id": "959087086596-rbdkbut16u2g3f40mrek3p011442o8o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCP9u_Y-NNoa4nGMKJU524QKhDZ2TapgM"
+        },
+        {
+          "current_key": "AIzaSyATDvBbBTBBM2hn24Jdn5lxoNQjOdo_Qjo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959087086596-rbdkbut16u2g3f40mrek3p011442o8o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
